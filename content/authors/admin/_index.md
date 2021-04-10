@@ -1,6 +1,6 @@
 ---
 role: Full Professor of Economics
-avatar_filename: carlos.png
+avatar_filename: avatar.png
 bio: My research interests include Macroeconomics, Labour Economics and Regional
   Economics.
 interests:
