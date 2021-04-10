@@ -23,9 +23,9 @@ twitter: ''
 email: cusaiba@upo.es
 phone: (+34) 954 348 553 / 954 349 388
 address:
-  street: Carretera de Utrera, km. 1, 
+  street: Carretera de Utrera, km. 1 
   city: Sevilla
-  region: CA
+ # region: CA
   postcode: '41013'
   country: Spain
   country_code: ES
