@@ -32,7 +32,7 @@ address:
 #coordinates:
 #  latitude: '37.3549', 
 #  longitude: '-5.9376'
-directions: Office: 3.3.3
+#directions: Office: 3.3.3
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
