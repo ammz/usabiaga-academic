@@ -1,4 +1,6 @@
 ---
+active: false
+
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -8,8 +10,6 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 30
-
-active: false
 
 title: Skills
 subtitle:
