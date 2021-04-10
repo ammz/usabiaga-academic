@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: cusaiba@upo.es
+phone: (+34) 954 348 553 / 954 349 388
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Carretera de Utrera, km. 1, 
+  city: Sevilla
   region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  postcode: '41013'
+  country: Spain
+  country_code: ES
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '37.354952267529384', 
+  longitude: '-5.937657025836927'
+directions: Office: 3.3.3
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
