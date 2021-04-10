@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-draft: true
+active: false
 
 title: Skills
 subtitle:
