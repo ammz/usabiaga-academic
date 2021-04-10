@@ -28,19 +28,16 @@ organizations:
     url: https://www.upo.es/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctor en Ciencias Económicas y Empresariales
+      institution: Universidad de Sevilla
+      year: 1992
+    - course: Licenciado en Ciencias Económicas y Empresariales
+      institution: Universidad de Sevilla
+      year: 1988
 superuser: true
 highlight_name: false
 title: Carlos Usabiaga
-email: ""
+email: cusaiba@upo.es
 ---
 Carlos Usabiaga is a full professor of economics at the *Department of Economics, Quantitative Methods and Economic History* of **Pablo de Olavide University**. His research interests include Macroeconomics, Labour Economics and Regional Economics
 
