@@ -28,10 +28,10 @@ address:
  # region: CA
   postcode: '41013'
   country: Spain
- # country_code: ES
-coordinates:
-  latitude: '37.3549', 
-  longitude: '-5.9376'
+  country_code: ES
+#coordinates:
+#  latitude: '37.3549', 
+#  longitude: '-5.9376'
 directions: Office: 3.3.3
 office_hours:
   - 'Monday 10:00 to 13:00'
