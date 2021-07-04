@@ -1,6 +1,7 @@
 ---
+title: Carlos Usabiaga
 role: Full Professor of Economics
-avatar_filename: avatar.png
+avatar_filename: foto-upo-2019.jpg
 bio: My research interests include Macroeconomics, Labour Economics and Regional
   Economics.
 interests:
@@ -22,10 +23,9 @@ education:
     - course: Licenciado en Ciencias Económicas y Empresariales
       institution: Universidad de Sevilla
       year: 1988
+email: cusaiba@upo.es
 superuser: true
 highlight_name: false
-title: Carlos Usabiaga
-email: cusaiba@upo.es
 ---
 Carlos Usabiaga is a full professor of economics at the *Department of Economics, Quantitative Methods and Economic History* of **Pablo de Olavide University**. His research interests include Macroeconomics, Labour Economics and Regional Economics
 
