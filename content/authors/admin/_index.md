@@ -2,8 +2,7 @@
 title: Carlos Usabiaga
 role: Full Professor of Economics
 avatar_filename: avatar.png
-bio: My research interests include Macroeconomics, Labour Economics, Economic
-  Growth and Regional Economics.
+bio: My research interests include Macroeconomics, Labour Economics, Economic Growth and Regional Economics.
 interests:
   - Macroeconomics
   - Labour Economics
