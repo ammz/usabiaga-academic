@@ -13,6 +13,7 @@ social:
     icon_pack: fas
     link: /#contact
 organizations:
+  - name: Department of Economics, Quantitative Methods and Economic History
   - name: Pablo de Olavide University
     url: https://www.upo.es/
 education:
