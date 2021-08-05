@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Hernández Salmerón
   - E.M.
+  - admin
 doi: ISBN 978-84-8195-382-4
 publication: Colección Cuadernos de Investigación, 6, Consejería de Hacienda y
   Administración Pública, Junta de Andalucía, Sevilla.
