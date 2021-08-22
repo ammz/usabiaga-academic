@@ -6,7 +6,9 @@ bio: My research interests include Macroeconomics, Labour Economics, Economic Gr
 interests:
   - Macroeconomics
   - Labour Economics
-  - Economic Growth and Regional Economics
+  - Regional Economics
+  - Economic Growth
+  - Spanish and Andalusian economies
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,8 +29,10 @@ email: cusaiba@upo.es
 superuser: true
 highlight_name: false
 ---
-Carlos Usabiaga is a full professor of economics at the *Department of Economics, Quantitative Methods and Economic History* of **Pablo de Olavide University**. His research interests include Macroeconomics, Labour Economics and Regional Economics
+Carlos Usabiaga is a Full Professor of Economics at the *Department of Economics, Quantitative Methods and Economic History* of **Pablo de Olavide University**. His **research interests** include Macroeconomics, Labour Economics, Regional Economics, Economic Growth, Spanish and Andalusian economies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-breve-mayo-2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/publicaciones-recientes-mayo-2021.pdf" "newtab" >}}recent publications{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/publicaciones-seleccionadas-mayo-2021.pdf" "newtab" >}}selected publications{{< /staticref >}}.
