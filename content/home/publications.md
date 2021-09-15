@@ -20,7 +20,7 @@ headless: true
 design:
   view: 4
 ---
-hola
+![Universidad Plablo de Olavide](logo-upo.png "")
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
