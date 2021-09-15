@@ -1,7 +1,6 @@
 ---
 widget: pages
 widget_id: recent-publications
-headless: true
 weight: 90
 title: Recent Publications
 subtitle: ""
@@ -17,9 +16,11 @@ content:
     publication_type: ""
     author: ""
     exclude_featured: true
+headless: true
 design:
   view: 4
 ---
+hola
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
