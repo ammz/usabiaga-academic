@@ -3,11 +3,11 @@ title: "Análisis del Crecimiento Económico y la Convergencia: Aplicaciones par
 publication_types:
   - "5"
 authors:
-  -  Hernández Salmerón, E.M
+  - Hernández Salmerón, E.M
   - admin
 doi: ISBN 978-84-8195-382-4
 publication: Colección Cuadernos de Investigación, 6, Consejería de Hacienda y Administración Pública, Junta de Andalucía, Sevilla.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
