@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Carlos Usabiaga # Website name
-baseurl: 'https://usabiaga.netlify.app' # Website URL
+baseurl: 'https://carlosusabiaga.netlify.app' # Website URL
 copyright: '© {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
