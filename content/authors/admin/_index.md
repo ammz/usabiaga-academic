@@ -35,8 +35,8 @@ email: cusaiba@upo.es
 
 Carlos Usabiaga is a Full Professor of Economics at the *Department of Economics, Quantitative Methods and Economic History* of **Pablo de Olavide University**. His **research interests** include Macroeconomics, Labour Economics, Regional Economics, Economic Growth, Spanish and Andalusian economies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-breve-mayo-2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Brief-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/publicaciones-recientes-mayo-2021.pdf" "newtab" >}}recent publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Recent-Publications.pdf" "newtab" >}}recent publications{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/publicaciones-seleccionadas-mayo-2021.pdf" "newtab" >}}selected publications{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2022-Selected-Publications.pdf" "newtab" >}}selected publications{{< /staticref >}}.
